@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054356524544",
+    "project_id": "mitchchatapp-6170a",
+    "storage_bucket": "mitchchatapp-6170a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054356524544:android:a86dc5c950f4f8094412e5",
+        "android_client_info": {
+          "package_name": "mitch.koko.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVnjydNkNl5_slDebkl1h8wOGr3qqH_JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
